@@ -1,0 +1,56 @@
+---
+court: "Oregon Tax Court"
+docket: "TC 3538"
+decided: "1994-05-18"
+citations: ["13 Or. Tax 97"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARMICHAEL COLUMBIA OIL, INC., an Oregon corporation, and Don Bretthauer Oil Company, an Oregon corporation v. DEPARTMENT OF REVENUE"]
+source_url: "https://static.case.law/or-tax/13/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1770332
+cites_cases: ["293 Or 536", "297 Or 583", "310 Or 260", "312 Or 529", "4 Or App 178", "496 US 18", "509 US 86"]
+---
+
+# Carmichael Columbia Oil, Inc. v. Department of Revenue
+
+## Majority (CARL N. BYERS, Judge.)
+
+CARL N. BYERS, Judge.
+This matter is before the court on cross motions for summary judgment. The facts have been stipulated. The issue concerns the refund of taxes collected under invalid laws.
+The 1989 legislature imposed fees on bulk withdrawal of petroleum products. See Or Laws 1989, ch 833, § 140, and Or Laws 1989, ch 1071, §§ 11-19.
+Plaintiffs are Oregon corporations in the business of distributing petroleum products within the state. Plaintiffs paid withdrawal fees in accordance with the statutes. The complaint alleges that Carmichael Columbia Oil paid approximately $35,500 and Don Bretthauer Oil Company paid approximately $96,210. ORS 465.124 states that “[t]he provisions of ORS chapters 305 and 314 * * * shall apply to the collection of fees, penalties and interest by the department under ORS 465.101 to 465.131.” Accordingly, plaintiffs petitioned defendant for refunds on the grounds that the laws imposing the petroleum withdrawal taxes were unconstitutional. Defendant agreed the laws were unconstitutional and unenforceable. However, defendant refused to refund the $10 per load fees collected under ORS 465.104. As to those fees, defendant concluded the refunds were governed solely by ORS 305.765 to 305.780, and that, under ORS 305.765, defendant can refund taxes only after a “court of last resort” holds invalid the law under which the tax was levied. In its opinion and order, defendant acknowledges the law is invalid but concludes it cannot order a refund of the tax because it is not a “court.” Plaintiffs then appealed to this court.
+DEFENDANTS MOTION
+Defendant moves for summary judgment on the grounds there is no justiciable issue and, therefore, the court is without jurisdiction to act. This position is based on the argument that defendant can only refund taxes under ORS 305.765 if a “court” rules the law invalid. By agreeing the law is invalid, defendant has attempted to make it a nonjusticiable issue beyond the reach of a court.
+In view of this argument, it is necessary to review the relationship between defendant and this court.
+The legislature requires taxpayers to exhaust their administrative remedies before appealing to this court. See ORS 305.275(4) and 305.425(3). This policy permits administrative agencies to first address taxpayer claims, relieving the court of those cases which can be resolved by administrative action. The policy also promotes uniformity and allows the agency to formulate rules and policies in the first instance. The requirement that taxpayers exhaust their administrative remedies is mandatory and failure to comply in good faith can result in dismissal of the claims. See Mullenaux v. Dept. of Rev., 293 Or 536, 651 P2d 724 (1982). Consequently, taxpayers must appeal to the department in accordance with the requirements of ORS chapter 305. Taxpayers who are not satisfied by the decision of the department may then appeal to this court.
+The legislature has conferred upon this court the “sole, exclusive and final judicial authority for the hearing and determination of all questions of law and fact arising under the tax laws of this state.” ORS 305.410(1).
+Moreover, the legislature made it clear the Tax Court is a trial court, not an appellate court of review. ORS 305.425(1) provides:
+“All proceedings before the court shall be original, independent proceedings and shall be tried without a jury and de novo.”
+The term de novo means anew or afresh. Black’s Law Dictionary 435 (6th Ed 1990). As used in this context, it implies a completely new adjudication. In an Oregon appellate court, de novo review is a “trial anew in the fullest sense.” The one exception to that rule is to give weight to the judgment of the trier of fact on the credibility of the witnesses. See Hannan v. Good Samaritan Hosp., 4 Or App 178, 187, 471 P2d 831, 476 P2d 931 (1970). That single exception is not for trials in this court. Every aspect of a proceeding in this court is tried anew and no weight is given to any findings or rulings by the Department of Revenue.
+The legislative direction that proceedings be “original” and “independent” demands that this court disregard entirely the decisions of defendant, except to ensure compliance with statutory requirements such as exhaustion of administrative remedies. This extends to the position taken by either party prior to coming to this court. Reed v. Dept. of Rev., 310 Or 260, 798 P2d 235 (1990). Neither party is limited to arguments or claims previously asserted before the Department of Revenue. Mid Oil Co. v. Dept. of Rev., 297 Or 583, 686 P2d 1020 (1984).
+In this light, when a taxpayer appeals from defendant’s opinion and order, there can be no nonjusticiable issue with regard to any issue raised before the department.
+PLAINTIFFS’ MOTION
+Plaintiffs’ motion for summary judgment seeks a determination that the $10 per load taxes were unconstitutional and that plaintiffs were entitled to full refunds.
+The parties stipulated the tax was unconstitutional. However, that stipulation is not binding on this court. The court must examine the statute and make its own independent determination.
+ORS 465.104 imposes the fee, which is clearly a tax. This tax is imposed upon “petroleum products.” ORS 465.101(5) defines petroleum products in a manner which limits them to fuel for motor vehicles or aircraft.
+Article IX, section 3a, of the Oregon Constitution requires that such taxes:
+“[B]e used exclusively for the construction, reconstruction, improvement, repair, maintenance, operation and use of public highways, roads, streets and roadside rest areas in this state.”
+ORS 465.127 allows expenditures for uses other than those set forth in the constitution. Accordingly, the court concludes that the statute, under which plaintiffs paid the $10 per load taxes, is unconstitutional.
+Plaintiffs maintain they are entitled to full refunds under ORS 465.127. This statute directs the use of the money collected “[a]fter payment of administration expenses, * * * refunds or credits arising from erroneous overpayments, * * *.” Defendant contends that any refunds which may be due by virtue of a statute being unconstitutional are governed by ORS 305.765.
+Although ORS 465.127 acknowledges possible refunds, it makes no express provision for them. Rather, ORS 465.124 adopts the provisions of ORS chapters 305 and 314 by reference. These are the same provisions which the Supreme Cotut, in Ragsdale v. Dept. of Rev., 312 Or 529, 823 P2d 971 (1992), held were not applicable when a statute has been invalidated. They were viewed by the court as general statutes which do not expressly provide for refunds due to invalidated laws.
+“Consequently, we read the phrase in ORS 305.765, ‘and there is no other statute authorizing refund thereof,’ as making application of the statute’s mandatory refund provision and shorter limitation period depend on the absence of another statute that specifically authorizes the refunding of taxes collected pursuant to laws later invalidated.” Ragsdale, 312 Or at 537.
+ORS 465.101 to 465.131 do not specifically provide for refunds in the event that any part of the statute is held invalid. Consequently, plaintiffs’ claims for refunds are governed by ORS 305.765.
+Plaintiffs claim they are entitled to full refunds because Harper v. Virginia Dept. of Taxation, 509 US 86, 113 S Ct 2510, 125 L Ed 2d 74 (1993), requires full refunds as a matter of federal due process. However, Harper addresses the retroactivity of federal rulings only. Holding that ORS 465.104 is invalid under the Oregon Constitution is not a federal ruling.
+The requirements of due process under the United States Constitution are set forth in McKesson Corp. v. Division of Alcoholic Beverages and Tobacco, 496 US 18, 110 S Ct 2238, 110 L Ed 2d 17 (1990). While those requirements were acknowledged by the Oregon Supreme Court in Ragsdale, the court stated:
+“However, the state legitimately may limit its obligation to refund taxes collected under an invalid law by requiring those who claim that a tax law is invalid to pay under protest or by imposing short statutes of limitations on such claims.” 312 Or at 540 (citing McKesson).
+Inasmuch as ORS 465.124 makes the provisions of ORS chapter 305 applicable by reference, plaintiffs are afforded a predeprivation remedy under ORS chapter 305 including “a stay of collection pending appeal.” ORS 465.124. In order to protect their rights under federal due process, plaintiffs could have and should have protested the taxes from the time of assessment. They could have refused to pay the tax, and appealed the assessments in a timely fashion. In that way, collection would have been stayed pending the appeal and plaintiffs could have obtained a final decision without having paid taxes to the state.
+Under ORS 305.765, plaintiffs are entitled to refunds only for taxes paid “in or after the year in which the action attacking the validity of the same was instituted.” As indicated by the court in Ragsdale, because taxpayers must exhaust their administrative remedies, they are entitled to a refund under ORS 305.765 for taxes which were due and payable in the year in which the taxpayers first made a claim for refund or sought to have the law declared invalid. Now, therefore,
+IT IS ORDERED that the cross motions for summary judgment are denied in part and granted in part consistent with the above decision. Costs to neither party.
+This allegation is denied for lack of knowledge in defendant’s Answer. The stipulation states that the amounts paid have yet to be determined.
+By its terms, ORS 305.765 is applicable only when there is no other statute providing for refunds. By concluding that refunds were due only by virtue of ORS 305.765, defendant implicitly determined that no other statute applies.
+The legislature has made exception for small claims which may be appealed directly to this court. See ORS 305.515.
+Defendant correctly anticipates that, as noted in Ragsdale v. Dept. of Rev., 312 Or 529, 823 P2d 971 (1992), the courts would interpret the procedural statutes to avoid allowing the administrative agency control and thereby defeat a taxpayer’s claim.
+The Supreme Court in Harper stated:
+“When this Court applies a rule of federal law to the parties before it, that rule is the controlling interpretation of federal law and must be given full retroactive effect in all cases still open on direct review and as to all events, regardless of whether such events predate or postdate our announcement of the rule.” 509 US 86. 113 S Ct at 2517, 125 L Ed 2d at 86.

@@ -1,7 +1,7 @@
 ---
 court: "Oregon Tax Court"
 decided: "1975-04-21"
-citations: ["6 Or. Tax 40", "6 Or. Tax 57"]
+citations: ["6 Or. Tax 40"]
 reporter: "or-tax"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["ASTORIA PLYWOOD CORPORATION v. DEPARTMENT OF REVENUE"]
 source_url: "https://static.case.law/or-tax/6/cases/0040-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1760400
-cites_cases: ["12 AFTR2d 5757", "13 Ariz App 336", "214 Or 513", "241 Or 109", "258 Or 76", "261 Or 371", "330 P2d 1026", "4 OTR 122", "5 OTR 45", "502 P2d 189", "6 OTR 40"]
+cites_cases: ["13 Ariz App 336", "258 Or 76", "261 Or 371", "4 OTR 122", "5 OTR 45", "502 P2d 189"]
 ---
 
 # Astoria Plywood Corp. v. Department of Revenue

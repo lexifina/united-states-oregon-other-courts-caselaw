@@ -1,0 +1,44 @@
+---
+court: "Oregon Tax Court"
+decided: "1967-01-04"
+citations: ["3 Or. Tax 25"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VINTON H. AND FERN L. LOVENESS v. STATE TAX COMMISSION"]
+source_url: "https://static.case.law/or-tax/3/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1755890
+cites_cases: ["226 Or 371", "227 Or 486"]
+---
+
+# Loveness v. State Tax Commission
+
+## Majority (Edward H. Howell, Judge.)
+
+Edward H. Howell, Judge.
+The question involved is whether plaintiffs’ complaint should be dismissed for plaintiffs’ failure to serve the tax commission with a certified copy of the complaint within the sixty days provided for by ORS 814.460(1). That statute requires that appeals to the Tax Court in income tax cases be accomplished by “filing a complaint against the commission in the Oregon Tax Court and by serving a true copy thereof upon the commission by registered or certified mail within 60 days after notice by the commission of its determination has been received by the taxpayer * * *."
+Notice of the defendant’s determination of deficiency was received by plaintiffs on August 9, 1966. The plaintiffs’ complaint was filed in this court on October 6. The sixty days for filing in the Tax Court and serving the defendant commission expired on Saturday, October 8, 1966. However, under ORS 174.120 the time would be extended until the close of business on Monday, October 10, 1966. On Monday, October 10, plaintiffs mailed, by certified mail, a copy of the complaint to the defendant. It was received by defendant on October 11, 1966.
+The defendant contends that the certified copy of the complaint had to be received by the commission on or before October 10, 1966, to be within the sixty days provided for in ORS 314.460(1). The plaintiffs’ position is that the mailing of the certified copy on the sixtieth day is sufficient and that it does not have to be actually received by the commission within the 60-day period.
+Prior to 1965 the filing of the complaint and service upon the commission in the manner- and within the time provided in ORS 314.460(1) was jurisdictional. McCain v. State Tax Com., 227 Or 486, 360 P2d 778, 363 P2d 775 (1961). However, in 1965 the legislature amended ORS 305.425 (Or L 1965, ch 6) to provide that the time allowed for appeals from the tax commission to the Tax Court is not jurisdictional but is a period of limitations. The defendant has timely raised the statute of limitations in its answer.
+ORS 305.425 states that the review by the Tax Court of orders of the tax commission shall be by an original proceeding in the nature of a suit to set aside the order of the commission. This suit, according to ORS 314.460(1), is commenced by filing a complaint in the Tax Court and serving the commission within the 60-day period which constitutes the statute of limitations for filing appeals in income tax cases. To that extent it is comparable to ORS 12.020 in the general statutes regarding limitations of actions and suits. ORS 12.020 provides that an action is deemed commenced within the time limited when the complaint is filed and the summons served on the defendant. The following statute, ORS 12.030, states that an attempt to commence an action is equivalent to the commencement when the complaint is filed and the summons delivered to the sheriff with the intent that it be actually served. It is sufficient if the summons is delivered to the sheriff within the period of limitations and if the sheriff serves the summons within sixty days after the filing of the complaint. Lang v. Hill, 226 Or 371, 360 P2d 316 (1961).
+Under ORS 12.030 the sheriff is the delivery agent for the service of the summons. Under ORS 314.460(1), requiring service by registered or certified mail, the United States Postal Service is the delivery agent.
+In the instant case the delivery within the sixty days of the certified copy of the complaint to the postal service for transmittal by registered or certified mail to the tax commission should be sufficient to satisfy the statute.
+“Service of process by mail, when authorized, is deemed complete when the writ is deposited in the post office, properly addressed and with the proper amount of postage. And it is sufficient if it is deposited in the mail on the last day allowed for service, although it is not received by the other party until after that day.” 42 Am Jur 48.
+Service on the commission must be accomplished in the manner and time provided by statute or the court does not acquire jurisdiction if such service is challenged. When the statute requires service by registered or certified mail and a different type of service is used as, for example, personal service, the court does not acquire jurisdiction. McCain v. State Tax Com., supra. The only type of service allowed by ORS 314.460(1) is service by registered or certified mail. To hold that the certified copy of the complaint must be actually received by the tax commission by the last day instead of being mailed on the last day could work a hardship on the plaintiff not intended by the legislature. For example, an attorney could drive several hundred miles in order to file a case in the Tax Court on the last day of the sixty days allowed by ORS 314.460(1). After filing in the Tax Court he could not personally deliver the certified copy of the complaint to the commission or have the sheriff serve the copy because the statute requires him to use registered or certified mail. Under the McCain case this requirement is mandatory. The attorney would then go to the Post Office and could be advised that he is too late for the delivery of any certified or registered mail that day. Under these circumstances, although his time to appeal has not expired, he cannot serve the commission in any manner. Certainly this is not something that the legislature intended or the courts should countenance. The only reasonable solution is to hold that the requirements of ORS 314.460 (1) are satisfied if the service on the tax commission is considered complete at the time the certified copy of the complaint has been delivered to the Post Office for transmittal by registered or certified mail.
+John Flynn, Ashland, Oregon, represented plaintiffs.
+Walter J. Apley, Assistant Attorney General, Salem, represented defendant.
+Decision for plaintiff rendered May 5, 1967.
+The defendant’s demurrer to the plaintiffs’ reply is overruled.
+
+## On the merits (Edward H. Howell, Judge.)
+
+ON THE MERITS
+Edward H. Howell, Judge.
+Plaintiff Vinton Loveness, together with his brothers, Loyal and Eonald, are partners in a logging and sawmill partnership which they formed in 1958. During the taxable years involved Vinton resided in California and the other two brothers lived in Malin, Oregon.
+The partnership owned certain logging and construction equipment .and in 1959 sold some of the heavy equipment to Nacon Company, Inc., a newly organized Nevada corporation. Nacon paid the partnership $111,500 in cash and 117,000 shares of Nacon stock having a par value of $1.00 per share.
+The gain on the sale was reported on the partnership return and the plaintiff Vinton Loveness reported and paid taxes on his Oregon income.
+In 1961 the federal district court of Nevada ordered the liquidation of Nacon, Inc., and the parties agree the stock became worthless in 1961. The plaintiffs reported their share of the loss in 1961, carried it forward to 1962 and secured a refund for 1962. The defendant allowed the refund but upon a reaudit the commission disallowed the loss. The defendant contends that the plaintiff individually owned and held his interest in the Nacon stock and as he was a nonresident of Oregon the loss from an intangible was not allowable.
+The factual issue is whether the stock was owned by the partnership and acquired an Oregon business situs or whether plaintiff’s interest in the stock was individually owned in which event the situs of plaintiff’s interest would be in California.
+The plaintiff is entitled to claim the loss because the stock was owned by the partnership and acquired a business situs in Oregon. The evidence at the trial was to the effect that the stock was acquired from the sale of the partnership’s logging and construction equipment to Nacon. The stock certificates were issued in the partnership name, carried on the financial statements of the partnership, remained at all times in the partnership office in Malin, Oregon, and none of the partners ever exercised any control over the stock as an individual. There is no evidence whatsoever that the plaintiff’s interest in the stock was an individual interest. On the contrary, the evidence clearly shows that the stock was partnership stock.
+The order of the tax commission is set aside. Plaintiffs are entitled to the refund.

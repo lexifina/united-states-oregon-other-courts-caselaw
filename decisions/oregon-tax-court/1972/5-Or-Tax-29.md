@@ -1,0 +1,29 @@
+---
+court: "Oregon Tax Court"
+decided: "1972-03-28"
+citations: ["5 Or. Tax 29"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNIROYAL, INC. v. DEPARTMENT OF REVENUE"]
+source_url: "https://static.case.law/or-tax/5/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1758579
+cites_cases: ["248 Or 460", "261 Or 305"]
+---
+
+# Uniroyal, Inc. v. Department of Revenue
+
+## Majority (Carlisle B. Roberts, Judge.)
+
+Carlisle B. Roberts, Judge.
+Plaintiff appeals from that portion of the Department of Revenue’s Order No. VL 71-237(A) which denied plaintiff’s request to have its personal property inventory assessment recomputed on the basis of the average-inventory method rather than the value as of January 1, 1970. Plaintiff prays for a décree determining that the true cash value of its inventory on the 1970-1971 roll be reduced by the Clackamas County Assessor from $188,078 to no more than $148,682.
+Plaintiff, a New Jersey corporation qualified to do business in Oregon, was the owner of a stock of goods located in Clackamas County, Oregon, which was subject to assessment and tax under ORS 307.030 for the tax year 1970-1971. On or before March 3, 1970, plaintiff filed its personal property tax return, pursuant to ORS 308.290 (1), and a claim for exemption under the “free port statute,” ORS 307.810, with the Clackamas County Assessor. Plaintiff’s claim for free port exemption was made on a form furnished by the assessor and prepared by defendant, designated “PT-C-18 (Rev. 1-69).” The form provided work space for a computation based upon “current January 1 value of goods,” which misled plaintiff into assuming that the average-inventory method was not available if the free port exemption was claimed. Thus, plaintiff used the current January 1 value of goods rather than the more favorable average-inventory valuation, although its regular and ordinary method of accounting was based on the average-inventory method.
+The plaintiff contends that the defendant and the assessor are estopped to deny plaintiff’s revocation of its election to use the January 1st value of personal property on hand and substitute the average-inventory valuation.
+An “election” has been defined to be “the choice of one of two rights or things, to each of which the party choosing has an equal right, but both of which he cannot have.” The doctrine of election implies that a taxpayer is given the option of freely taking two courses of action; however, where there is no freedom of choice and the election is by compulsion, the rule is inapplicable. See 10 Mertens, Law of Federal Income Taxation, § 60.19, 83-81.
+The form to which reference has been made bears the heading “CLAIM FOR PROPERTY TAX EXEMPTION ON CERTAIN IN-TRANSIT PERSONAL PROPERTY STORED IN WAREHOUSES.” The form provides two methods for arriving at the true cash value of in-transit personal property for the tax year. Under method A, the taxpayer must list property designated as being “in-transit” as per his business records. Method B is a percentage computation which may be used in lieu óf A. It consists of substituting values into an equation to arrive at the amount of exempt current year in-transit property. Specifically, the instruction numbered “(3)” of method B prescribes the use in the formula of “Current January 1 value of goods, wares and merchandise manufactured or produced outside of Oregon.” Taxpayer contends that because instruction (3) of method B was complete in itself and contains no indication that an average-inventory value can be substituted there, the taxpayer was misled into believing that a claim for free port exemption precludes an election to use the average-inventory method. (ORS 308.292 specifically authorizes, the use of the average-inventory method for valuation of personal property.)
+On the back of the form, under the heading “Rules- and Regulations,” R307.830 is copied in small type. There it is indicated that the average-inventory method may be used, in this language: “If the return is made on the basis of the average inventory as provided by ORS 308.292, # * However, the front side of the form makes no mention of this alternative.
+After reviewing both sides of the form, the court concludes that it would be inequitable for the taxing authorities to deny plaintiff’s claim. Clearly, the lack of information on the form regarding an election to use the average-inventory method is enough to have misled a reasonable person that such election was not available. (Defendant’s only witness, who had worked with this form for some years, agreed that instruction (3) should have included “* * * or average-inventory value of goods.”)
+In Johnson v. Tax Commission, 248 Or 460, 435 P2d 302 (1967), the Oregon Supreme Court held that the doctrine of estoppel would be applied where the taxing authorities misled the taxpayer by supplying him with a tax form which was superseded by an amended form. In Pilgrim Turkey Pckrs. v. Dept. of Rev., 261 Or 305, 493 P2d 1372 (1972), the court held that estoppel should apply against the tax collector because a form and instructions therein supplied by the Department of Revenue to the taxpayer was sufficiently ambiguous to mislead a reasonable person.
+Although these cases and the present one differ in degree, the principle of estoppel, because of a misleading official form, seems equally applicable here.
+The Department of Eevenue’s order is therefore modified to allow the plaintiff to use the average-inventory method for the tax year 1970-1971, and the assessor and tax collector shall amend the roll to show the plaintiff’s personal property inventory to be $148,682 as of January 1, 1970. Any overpayment of tax thereon shall be refunded pursuant to OES 311.806.

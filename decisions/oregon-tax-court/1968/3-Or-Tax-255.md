@@ -1,0 +1,36 @@
+---
+court: "Oregon Tax Court"
+decided: "1968-08-20"
+citations: ["3 Or. Tax 255"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DIAMOND FRUIT GROWERS, INC. v. COMMISSION"]
+source_url: "https://static.case.law/or-tax/3/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1755888
+cites_cases: ["249 Or 103", "3 OTR 205"]
+---
+
+# Diamond Fruit Growers, Inc. v. Commission
+
+## Majority (Edward H. Howell, Judge.)
+
+Edward H. Howell, Judge.
+This case involves the right of the plaintiff as a fruit processor to the cancellation of a personal property tax assessment. The tax commission found that plaintiff did not qualify for the cancellation and plaintiff appealed.
+The issue involves the interpretation of ORS 308.250, known as the “processors’ exemption statute”. It provides that all personal property not exempt from taxation shall be assessed at its true cash value as of January 1 of each tax year. It also provides that the assessment of certain products, including fruit, “in the hands of a farmer, producer, or processor while being transported to or held in storage in a public or private warehouse” shall be cancelled by the assessor “on receipt of * * * proof that the personal property so assessed actually was transported or shipped to another point before May 1 of the year of assessment. * * *”
+Plaintiff is a cooperative engaged in the canning of fruit in Hood River, Oregon. The tax commission agreed that the plaintiff is a food processor within the meaning of ORS 308.250 but concluded that the plaintiff’s movement of canned fruit did not constitute the type of transportation or shipment contemplated by the statute.
+Plaintiff’s canning operation consists of a cannery where the fruit is received and canned, several storage or warehouse buildings and a building called “Big 7” where the canned fruit is labeled and shipped out by railroad or trucks. All of the warehouses except two are owned by the plaintiff. With the exception of one warehouse located about six miles south of Hood River, all are located in the city of Hood River a short distance from the cannery.
+The fruit is received at the cannery by truck, canned, and the unlabeled cans moved to the Various warehouse buildings. When an order has been received, the cans involved are moved to the Big 7 building, labeled and shipped. On occasion after the canning, some fruit is kept in temporary storage in the basement of the cannery or upstairs in the Big 7 building and eventually moved out as other storage areas become available.
+The plaintiff is not contending that there should be a cancellation of assessment for the canned fruit kept in temporary storage. It does argue that it is entitled to a cancellation for any goods which it had on hand on January 1 and which were moved before May 1 to the Big 7 warehouse preparatory to shipping or moved from one warehouse to another. The evidence showed many movements between warehouses during the period January 1 to May 1. The plaintiff’s manager testified that in most instances the movements were made so that the canned goods would be closer to the point of shipment.
+In effect the plaintiff is arguing it is entitled to the cancellation if (1) the goods were on hand in a warehouse on January 1, and (2) if they were moved to any other warehouse for any reason between January 1 and May 1.
+Apparently the legislature in enacting ORS 308.250 intended to give tax relief to farmers, producers or processors, who because of their business had peak inventories on hand on assessment day and shipped the goods and reduced their inventory by May 1.
+Prior to the 1953 amendment (Or L 1953, ch 349) the processor exemption statute granted a cancellation if the personal property “was sold and transported or shipped to another point.” The 1953 amendment eliminated the words “sold and” leaving only the requirement that the property be transported or shipped to another point.
+The plaintiff relies on an opinion of the Attorney General (27 Or Atty Gen 168, December 7, 1955) interpreting ORS 308.250. The facts are not related but the opinion held that the amendment deleting the words “sold and” enlarged the provision for cancellation of assessments and made transportation or shipment to another point the only qualification.
+While the legislature by the 1953 amendment eliminated the requirement that the goods be sold in order for the taxpayer to be entitled to the cancellation, the question remains as to the interpretation to be given to the requirement that the goods be transported or shipped to another point between January 1 and May 1.
+If the opinion of the Attorney General means that the only requirement for cancellation is that the goods be stored in a warehouse on January 1 and moved to another “point” before May 1, then the opinion is not persuasive. The results would be absurd. To be entitled to the cancellation a processor would only have to move the goods from one warehouse to another for any reason. In fact, the testimony in this case regarding one of the movements of the canned goods from one warehouse to another illustrates this proposition. Some of the canned goods were stored in a warehouse called the Cascade Building. Because of dampness that developed in the Cascade Building the goods were moved (apparently about 200 feet) to the Graff Building. Plaintiff contends that this constituted sufficient shipment or transportation to entitle it to the cancellation of these goods. The same reasoning would entitle the plaintiff to a cancellation if the move resulted from fire, wind, water, or any other damage occurring to the warehouses where the property was stored.
+A statute should not be construed so as to produce an unreasonable result. Pacific P & L Co. v. Commission, 249 Or 103, 437 P2d 473, 476; Century Pontiac v. Commission, 3 OTR 205 (1968).
+As previously mentioned the statute was apparently enacted to give tax relief to farmers, producers and processors who had peak inventories at a certain time of the year and who disposed of all or parts of the inventory by May 1. It would be particularly applicable to a cannery that processes pears and apples in the fall of each year and disposes of the inventory before the next harvest season. When the legislature required the goods to be transported or shipped to another point it must have intended that the goods pass out of the possession and control of the processor. Otherwise there would be no reason to allow the cancellation.
+The principle is firmly established in this state that exemption statutes are subject to strict but reasonable construction. The plaintiff has failed to establish that the movement of the goods from one warehouse to another, including those moved to the Big 7 warehouse preliminary to shipment, is the type of transportation or shipment contemplated by the statute. The goods remained under the possession and control of the plaintiff and are not entitled to the cancellation of assessment.
+The order of the tax commission is affirmed.
+The 1953 amendment originated as Senate Bill 238. The legislative minutes and committee reports tail to disclose the intention of the legislature when it deleted the words “sold and” from the statute.

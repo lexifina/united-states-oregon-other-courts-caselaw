@@ -1,0 +1,26 @@
+---
+court: "Oregon Tax Court"
+decided: "1971-11-29"
+citations: ["4 Or. Tax 582"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEONARD L. RAY, JR. and PATRICIA S. RAY v. DEPARTMENT OF REVENUE"]
+source_url: "https://static.case.law/or-tax/4/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1757771
+cites_cases: ["241 Or 109"]
+---
+
+# Ray v. Department of Revenue
+
+## Majority (Carlisle B. Roberts, Judge.)
+
+Carlisle B. Roberts, Judge.
+The plaintiffs appealed to this court from the Department of Bevenue’s Order No. VL 71-65, seeking a revision of the true cash value of the plaintiffs’ personal residence as of the assessment dates January 1, 1969, and January 1, 1970. The property, a lot and single-family residence located at 10860 Deerhorn Boad, Springfield, Oregon, is described as Tax Lot 201 of the Lane County Assessor’s Map 17-1-32-1 (19-09). The assessor had established a value of $9,320 for the land, $28,280 for the improvements, a total of $37,600. The Department of Bevenue’s order reduced these values to $7,160 for the land, $27,610 for the improvements, a total of $34,770. Plaintiffs contend that the true cash value on the assessment dates did not exceed, for the land, $1,710, for the improvements, $24,580, for a total of $26,290.
+The subject property has a number of singular features which make its appraisal unusually difficult. It is located about 13 miles east of the City of Eugene, close to the McKenzie Highway, with Deerhorn Road as a southerly boundary and the McKenzie River on the north. The site is a narrow strip of land about 725 feet in length from east to west, with an average depth of 68 feet (50 feet at the narrowest, 90 feet at the maximum). Before it was improved, the land was carried on the county’s assessment rolls for many years at a true cash value of $120. It was not considered suitable for a building site. It was acquired in 1965 when plaintiffs were offered two lots lying across the county road from the narrow strip; they agreed to purchase the lots if the strip were included without additional consideration.
+The plaintiffs, for reasons sentimental and esthetic, determined to build a residence by the river and faced the obvious difficulties as a challenge to their ingenuity. With the aid of an experienced engineer, a gifted architect and the county sanitarian, they completed the improvements in July 1968, but at a total cost of over $43,000. For this amount, they obtained a unique one-story home of 1,521 square feet, including a living room, kitchen, utility room, small dining space, two bedrooms and one bath. The house sits on a wooden deck, cantilevered over the river on a foundation of steel columns and beams. In order to meet code requirements of safety and health, large sums were expended on the steel foundation, retaining wall, the carport, the septic tank drain field and the well.
+The county used a “summation approach” to value, depending upon the plaintiffs’ cost figures to a large extent. This approach was chosen, as stated by the chief appraiser for Lane County, because the improvement “was unusual, highly individualized, and no known comparable sales were known at the time and, under these conditions, the summation approach is generally considered to be the most appropriate.” With this approach, the value of the land only, as improved by the well, septic tank and retaining walls, was increased from $120 to $9,320. “Overbuilding” of the improvements was recognized in the valuation thereof at $28,280, in spite of their actual cost.
+Mr. Roy R. Nelson, an experienced fee appraiser, testified on behalf of the plaintiffs and placed into evidence an elaborate appraisal report (Plaintiffs’ Exhibit 11). He examined hundreds of sales to find 22 which furnished useful guidance. The witness disagreed with the county’s appraiser as to the lack of a market and made a strong presentation based on market data. He accepted the fact that the subject property was unique and comparables substantially identical could not be found. But he offered cogent reasons for classifying the subject property in the lower ranges of “luxury houses” and, with photographs, illustrated that such properties typically are unique, this being one of the amenities common to the class. The witness testified that the relatively small group of persons constituting the market seeking such properties is willing to pay a measurable price which discounts “overbuilding.” Using the market data approach, the witness arrived at a total true cash value of $28,250.
+The market data approach is to be favored over others when such data are available. Portland Canning Co. v. Tax Com., 241 Or 109, 404 P2d 236 (1965). It is evident that the county’s appraisers were baffled by the problem of value here and used construction costs as a convenient expedient.
+After a detailed review of the testimony and exhibits, the court finds the preponderance of the evidence favors the plaintiffs and that the true cash value of the property on the assessment dates was $28,250, of which $4,000 was attributable to the improved land.

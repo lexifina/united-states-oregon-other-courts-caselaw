@@ -1,7 +1,7 @@
 ---
 court: "Oregon Tax Court"
 decided: "1969-12-30"
-citations: ["4 Or. Tax 34", "4 Or. Tax 31"]
+citations: ["4 Or. Tax 34"]
 reporter: "or-tax"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["KOLSTAD CANNERIES, INC. v. DEPARTMENT OF REVENUE"]
 source_url: "https://static.case.law/or-tax/4/cases/0034-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1757783
-cites_cases: ["254 Or 619", "29 Op Att'y Gen 25", "3 OTR 255", "4 OTR 34"]
+cites_cases: ["254 Or 619", "29 Op Att'y Gen 25", "3 OTR 255"]
 ---
 
 # Kolstad Canneries, Inc. v. Department of Revenue

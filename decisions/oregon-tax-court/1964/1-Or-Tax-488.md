@@ -1,0 +1,29 @@
+---
+court: "Oregon Tax Court"
+decided: "1964-01-31"
+citations: ["1 Or. Tax 488"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MILLER v. STATE TAX COMMISSION"]
+source_url: "https://static.case.law/or-tax/1/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1753304
+cites_cases: ["1 OTR 484", "144 Or 78"]
+---
+
+# Miller v. State Tax Commission
+
+## Majority (Peter M. G-unnar, Judge.)
+
+Peter M. G-unnar, Judge.
+This is a suit to set aside defendant’s Opinion and Order No. I-63-6, which sustained an additional assessment of personal income taxes against plaintiffs for the calendar year 1958.
+In 1958, plaintiffs owned a single unit farm in Linn County, Oregon. During that year, the State of Oregon, acting through its State Highway Department, threatened to condemn a 26.8 acre strip of land running through plaintiffs’ farm, as right-of-way for Interstate 5, a nonaccess freeway. The condemnation of this strip as proposed and consummated separated plaintiffs’ farm into two unconnected tracts of 162 acres and 411 acres, respectively. It resulted in the plaintiffs not being able to use the eastern, larger portion of the land for their cattle operation without substantial investment in handling facilities, and it left the smaller, western portion with cattle handling and other improvements in excess of that useful on a farm of that size. Because the highway was a limited access highway, plaintiffs were, and are, required to travel from five to six miles to go from one tract to the other. All these results of the threatened condemnation caused a severe depreciation in the value of plaintiffs’ remaining lands.
+Following considerable negotiations, and under threat of condemnation, plaintiffs orally agreed to convey to the state the desired 26.8 acres for $25,000. As a part of this oral agreement, the highwaymen and plaintiffs agreed that of the $25,000 total consideration approximately $8,000 was to be paid as the reasonable value of the land taken and approximately $17,000 for damage to the remaining land. Pursuant to this oral agreement, the Highway Commission prepared, plaintiffs tendered, and the Highway Commission subsequently accepted, a warranty deed conveying plaintiffs’ 26.8 acres for a recited consideration of $25,000. No other document was executed between the parties.
+On their 1958 personal income tax returns, plaintiffs reported the receipt of $7,800 for land sold to the state and treated the remaining $17,200 as damages to the remaining land, reducing their basis in that remaining land and paying no tax at that time on such damages because the damages did not exceed their basis in the land.
+Both at the audit stage and after a formal hearing, defendant rejected the position of plaintiffs and claimed that the entire award was taxable because the deed did not expressly segregate the damages from the land price. This case, on its facts and contentions of the parties, is controlled by the decision in Wassom v. Commission, 1 OTR, 468, entered by this court earlier this day. Under the law of that decision the commission’s order must be set aside.
+Obviously, the facts of this case and those of the Wassom case are not identical; but they are sufficiently similar in all their operative features to warrant the conclusion that the rule of the Wassom case controls here. In both cases there was an oral meeting of the minds as to the allocation of the agreed consideration between land price and damages, followed by the formalization of the conveyance in a written document. In the two cases, both parties to the contract recognized that very substantial depreciation of the remaining land resulted from the taking. In both cases, there was, in fact, severe damage to the remainder.
+The only substantial factual distinction between this case and Wassom v. Commission, supra, and Willoughby v. Commission, 1 OTR 484, also entered this day, is that there is no evidence in this case that plaintiffs asked for an allocation of the purchase price and damages in the deed and were refused by the Highway Commission. While this renders the final consideration of legal and moral grounds in the Wassom case inapplicable in this case, the general grounds found persuasive in the Wassom case still apply in this case.
+In addition, the evidence in this case discloses that the highway right-of-way agents represented to plaintiffs that they would have to pay no tax upon the estimated $17,000 to $18,000 of severance damage. Plaintiffs confirmed the accuracy of this representation by consulting their accountant and plaintiff Dudley Miller testified that they relied upon this representation in accepting the $25,000 settlement. Although the statements of the highway department personnel in an area clearly outside their competence cannot he invoked against the sovereign and its taxing power as promissory estoppel or otherwise, this feature does create what lawyers often refer to as a “curbstone equity.”
+Finally, it is a fact of common knowledge that deeds normally are less likely to contain all the terms of an agreement than a longer, more fully integrated contract or option. In this case it appears that the tender of the deed was more accurately the performance of the oral contract rather than the integration of the agreement of the parties. Thus the deed would not he within the terms of the parol evidence statute. ORS 41.740. In any event, the statement of money consideration in a deed generally is deemed a mere recital and can be explained by parol evidence nnder a recognized exception to tbe rnle. Hurst v. Merrifield, 144 Or 78, 90-1, 23 P2d 124 (1933).
+Plaintiffs shall prepare and tender a decree in conformity with this decision in accordance with Pule 32.

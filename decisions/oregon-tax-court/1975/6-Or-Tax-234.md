@@ -1,0 +1,48 @@
+---
+court: "Oregon Tax Court"
+decided: "1975-11-21"
+citations: ["6 Or. Tax 234"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHESTER SWENSON, dba SWENSON LUMBER CO. v. DEPARTMENT OF REVENUE"]
+source_url: "https://static.case.law/or-tax/6/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1760398
+cites_cases: ["101 A2d 575", "159 F2d 13", "16 Or App 63", "167 F Supp 846", "185 A2d 682", "29 NJ Super 11", "320 F2d 762", "40 L Ed2d 558", "416 US 969", "485 F2d 718", "77 NJ Super 155", "94 S Ct 1992"]
+---
+
+# Swenson v. Department of Revenue
+
+## Majority (Carlisle B. Roberts, Judge.)
+
+Carlisle B. Roberts, Judge.
+Plaintiff appealed the defendant’s Order No. YL 74-189, dated April 15, 1974. The main question presented is whether the statutory language of ORS 321.-310(2), requiring the Department of Revenue to determine the unit value of forest crops by a “method” which takes into account a variety of factors, requires a rule or regulation to be adopted by defendant pursuant to the rule-making requirements set forth in ORS chapter 183 (hereinafter referred to as the Administrative Procedures Act). The plaintiff argues that any such “method” of determining value requires the adoption of a rule or regulation, and since no such rule exists, the yield tax imposed pursuant to ORS 321.315(1), for the 1973 tax year, based on the unit value of the forest crops, cannot be collected. The defendant’s position is that no such rule need be adopted and that it acted in full compliance with the law.
+The facts in this case, basically, are not disputed. Plaintiff, Chester Swenson, doing business as Swenson Lumber Co., is the owner of Tax Lots 16-9-31 and 17-10-1 in Lane County, Oregon. Pursuant to ORS 321.285, the property had been classified as “reforestation lands” and therefore was exempt from ad valorem taxation. ORS 321.300. On April 3, July 25 and July 27, 1973, plaintiff was granted a permit and amended permits by defendant, pursuant to ORS 321.-310(1), to harvest certain species of timber from these lots. Having been granted permits, the plaintiff was subject to a yield tax of 12y2 percent of the value of the timber harvested.
+Plaintiff argues that the yield tax cannot be collected because the defendant had failed to adopt a rule or regulation specifically declaring the method to be used by it in determining the unit market value.
+The legislature, in ORS 321.310(2), has set forth the considerations required of defendant in arriving at retail market value per unit:
+“* * * The retail market value per unit of measurement of a particular grade and species of timber upon a tract shall be determined by a method which makes reasonable allowance for species, quality, growing conditions, age, volume after allowance for defect and breakage, costs of removal, accessibility to point of conversion, topography, costs of conversion into logs, and any other relevant factors.” (Emphasis supplied.)
+Plaintiff contends that the language of ORS 321.340 (1971 Replacement Part) affirmatively requires the defendant to adopt rules to carry out the purposes of the act:
+“(1) The department shall * * make orders, rules and regulations necessary to carry out and accomplish the purposes of ORS 321.255 to 321.-355.” (Emphasis supplied.)
+Plaintiff concludes that the defendant should have promulgated a rule or regulation, specifically setting forth the method for determining the retail market value per unit, prior to plaintiff’s request for a forest harvest permit. Furthermore, plaintiff argues that the nonexistence of such rules and regulations constitutes a failure by defendant to comply with the requirements of the Administrative Procedures Act.
+Both parties agree that the Department of Revenue has issued no rules or regulations implementing ORS 321.255 to 321.355 and that if such rules or regulations were adopted, the Administrative Procedures Act’s requirements of promulgation were applicable.
+ORS 321.340 (1971 Replacement Part) only requires the defendant to adopt those rules and regulations which it considers “necessary” to carry out the duties given it. This is a grant of discretion to the department and cannot be construed to require it to promulgate such rules.
+An administrative agency is not required to adopt rules for every facet of its responsibilities. In ORS 305.100, the general legislative grant of the rule-making power to the defendant, complete discretion is provided. In Mitchell v. Cavicchia, 29 NJ Super 11, 14, 101 A2d 575, 577 (1953), the court said:
+“It has been held that there is no rigid principle requiring an administrative agency to lay down rules and standards spelling out every wide grant of authority it receives. * * *”
+This reasoning was followed in Ketchikan Packing Company v. City of Ketchikan, 167 F Supp 846, 852 (DC Alas 1958), where the court said:
+“Since the taxing statute prescribes no exact method of valuation, the tax authorities have the right to use any fair formula that might give effect to the intangible elements that influence valuation * * (Emphasis supplied.)
+See also R. H. Macy & Co., Inc. v. Director, Div of Taxation, 77 NJ Super 155, 185 A2d 682, 696 (1962).
+Furthermore, it is generally held that individuals cannot force an administrative agency to adopt rules when it has not chosen to do so. In Rhode Island Television Corporation v. F.C.C., 320 F2d 762, 766 (DC Cir 1963), the court said:
+“* * * Administrative rule making does not ordinarily comprehend any rights in private parties to compel an agency to institute such proceedings or promulgate rules. * * *”
+Indeed, it is generally held that if an agency chooses to ignore its rule-making powers and proceeds on a case-by-case basis in a given instance, the courts will not interfere.
+“* * The courts have consistently held that where an agency, as in this case, is given an option to proceed by rulemaking or by individual adjudication [,] the choice is one that lies in the informed discretion of the administrative, agency. * *” (PBW Stock Exchange, Inc. v. Securities and Exch. Com’n, 485 F2d 718, 732 (3d Cir 1973), cert denied, 416 US 969, 94 S Ct 1992, 40 L Ed2d 558 (1974).)
+See also 1 Davis, Administrative Law Treatise § 5.01 at 288 (1958).
+Plaintiff argues that a duty is imposed on an administrative agency to adopt rules if it has been given the requisite legislative grant of power, citing Sun Ray Dairy v. OLCC, 16 Or App 63, 70, 517 P2d 289 (1973). Counsel for the defendant clearly distinguishes Sun Bay Dairy from the instant case. Value is an objective fact which can be compared against any subjective determination made by the defendant. In Sun Bay Dairy, the agency was given the power to grant liquor licenses without any standards. The reasons for granting the license were solely subjective and could not be measured against any objective standard such as value. The plaintiff’s remedy here, therefore, lies in an appeal on the question of value. District of Columbia v. Morris, 159 F2d 13 (DC Cir 1946).
+In addition to the allegation that yield tax cannot be collected because no rule has been promulgated, plaintiff also charges that defendant, in determining the unit value, failed to consider the length of time plaintiff owned the land. ORS 321.310(2) listed nine factors to consider in valuing the forest crops and allowed the department to consider “any other relevant factors.” Plaintiff submits that length of ownership should be such a factor. Citing ORS 321.260, which sets out the purposes of the act (including tax relief for forest owners), the plaintiff asserts that there must have been some impropriety since his total yield tax was greater than his ad valorem tax would have been, over the period of ownership.
+Again, these contentions are not persuasive. The doctrine of ejusdem generis requires that if a statute contains a nonexclusive listing of elements of a class, then excluded from the statute are items not within the class. 2A Sutherland Statutory Construction § 47.18 (C. Sands, 4th ed 1973). All the items mentioned in OES 321.310(2) relate to value. The time which plaintiff owned the property has no bearing on value for forest unit value purposes and there is no basis for concluding that the legislature intended it to be included within this list. Furthermore, it is no defense to the tax that plaintiff might have had to pay greater ad valorem taxes than the yield taxes imposed. Even if this were so, the general purposes outlined in ORS 321.260 cannot be allowed to control the express requirements of the statute.
+Plaintiff finally argues that since he is the owner of two tax lots which are similar in every way, then it was error to assess one of these lots, Tax Lot 17-10-1, at $20 per thousand board feet higher than the other tax lot. No adequate evidence was produced to support the contention that the two lots were similar in every way. Furthermore, if true, such a claim, unsupported by additional facts, would have no legal effect because of the possibility that the tax lot upon which comparison was based was valued too low, rather than Tax Lot 17-10-1 being valued too high.
+Defendant’s order is affirmed.
+The words, “rules and regulations,” were removed from ORS 321.340 by Or Laws 1973, ch 348, § 8, effective October 5, 1973.
+ORS 305.100 states:
+“The Department of Revenue shall:
+“(1) Make such rules and regulations it deems proper to regulate its own procedure and to effectually carry out the purposes for which it is constituted.”

@@ -1,0 +1,31 @@
+---
+court: "Oregon Tax Court"
+docket: "TC 3612"
+decided: "1996-12-02"
+citations: ["14 Or. Tax 52"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George VAN NATTA v. DEPARTMENT OF REVENUE"]
+source_url: "https://static.case.law/or-tax/14/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 216796
+cites_cases: ["13 OTR 215", "323 Or 62"]
+---
+
+# Van Natta v. Department of Revenue
+
+## Majority (CARL N. BYERS, Judge.)
+
+CARL N. BYERS, Judge.
+This matter has been remanded to the Tax Court by the Oregon Supreme Court to “determine what costs claimed by taxpayer actually were contract ‘logging costs’ under ORS [32]1.282(4)(b)(A) (1991).” Van Natta v. Dept. of Rev., 323 Or 62, 68, 913 P2d 305 (1996). The parties declined to introduce further evidence and, therefore, the court will make the requisite determination based on the record before it.
+At trial, plaintiff (taxpayer) established that he had written contracts for the logging of his timber. His longstanding arrangement with the logging contractor provided that he would receive 35 percent of the proceeds and the logger would receive 65 percent of the proceeds. The Department of Revenue (department) challenged taxpayer’s logging costs as excessive because 65 percent was more than typical for the market. The department used typical logging costs to suggest that not all of the costs were for logging. The department implied that, because the logging contractor was a partnership of taxpayer’s two sons, taxpayer used the contract to shift income to family members. The department’s auditor also raised questions about some of the logger’s expenses, suggesting or implying that these were incurred for taxpayer’s benefit. Based upon the evidence submitted at the trial, the Tax Court upheld the department’s disallowance of a portion of the logging costs, finding that “plaintiff has not met his burden of proof.” Van Natta v. Dept. of Rev., 13 OTR 215, 219 (1995). However, on appeal, the Supreme Court concluded that the Tax Court erred in holding there was a reasonableness limitation on the contract logging costs a taxpayer can deduct. Van Natta, 323 Or at 68. In construing ORS 321.282, the Supreme Court held:
+“[T]he legislature placed no reasonableness or market-value limitation on the amount of the actual ‘logging costs’ that a taxpayer may claim under that subsection.” Id. at 67.
+On a second issue, the Supreme Court upheld the department’s authority to:
+“require proof that costs claimed as a deduction actually were connected with logging, log hauling, and marketing timber.” Id.
+The court also noted that the taxpayer has the burden of proving that the costs deducted are connected with logging. Id. at 69 n 3.
+The effect of the Supreme Court holding is to prohibit the department from using typical or reasonable costs as a standard for implying nonlogging costs. This was the approach taken by the department, accepted by the Tax Court, and reversed by the Supreme Court. The Supreme Court holding, therefore, requires proof that claimed logging expenses are not for or connected with logging.
+Although taxpayer has the burden of proving that certain costs are for logging, there are two points to consider. First, the statute deals with written logging contracts. A taxpayer’s ostensible logging costs will be set by the contract. Unless the contract or other evidence demonstrates that the contract is not limited to logging, log hauling, or marketing of the timber, the contract price will be the taxpayer’s logging costs. How the logger uses its income is largely irrelevant. Thus, finding nonlogging expenditures in the logger’s books is not evidence that the amount taxpayer paid is not all for logging. In this case, there was no evidence that taxpayer required or requested the logger to incur any of the nonlogging expenditures.
+Second, within the timber tax severance system, the court may assume that the legislature did not intend to impose an unreasonable burden of proof on a taxpayer. Extraordinarily high contract logging costs might be attributable to topography, a taxpayer’s loyalty to an old friend, taxpayer’s ignorance or lack of negotiating ability, or a number of other reasons. If a taxpayer proves that he has a written contract for the logging, log hauling, or marketing of timber and the amount paid under that contract was for such activities, the taxpayer has met his burden of proof. It would be unreasonable to require a taxpayer who deals at arm’s length with a logging contractor to know or attempt to learn all of the costs, activities, or profit margin of the logging contractor. Under the Supreme Court’s reading of the statute, if the money is paid for logging services, the amount is deductible even though it may be unreasonable.
+Based on the record before it, this court finds that all of the logging costs claimed by taxpayer are deductible under ORS 321.282. Although the department challenged the logging costs on the basis that some portion would constitute a gift to taxpayer’s sons, there was no evidence of such. Rather, the evidence indicated that selective logging justified a higher profit margin. Also, taxpayer testified he was concerned about paying the logger enough to retain its services on a long-term basis. He was not concerned about logging costs. The fact that the logger was a partnership owned by his sons may be the very reason for his lack of concern. However, if the costs need not be reasonable, the unconcerned taxpayer may deduct them in full.
+The department also questioned specific expenses incurred by the logger. As indicated above, those expenses generally are irrelevant when it comes to determining the taxpayer’s cost. The evidence did not show that the logger incurred any of the questioned expenses for taxpayer out of the logging contract proceeds or that there was any consideration implied or expressed in connection with the contract. The evidence submitted simply indicates that all of the money that taxpayer paid under the logging contracts was for logging services. Accordingly, judgment must be entered in favor of taxpayer. Costs to neither party.

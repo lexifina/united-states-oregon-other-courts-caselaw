@@ -1,0 +1,31 @@
+---
+court: "Oregon Tax Court"
+decided: "1975-12-31"
+citations: ["6 Or. Tax 384"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BETTY L. ADAMS, PERSONALLY AND AS PERSONAL REPRESENTATIVE OF THE ESTATE OF STANLEY S. ADAMS, DECEASED, v. DEPARTMENT OF REVENUE"]
+source_url: "https://static.case.law/or-tax/6/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1760413
+cites_cases: ["22 Or 533", "30 P 425", "6 OTR 241"]
+---
+
+# Adams v. Department of Revenue
+
+## Majority (Carlisle B. Roberts, Judge.)
+
+Carlisle B. Roberts, Judge.
+Plaintiff appeals from the Department of Revenue’s Amended Order No. IH 74-12, issued on February 4, 1975, which held that certain payments made to the widow of the decedent after the decedent’s death were subject to Oregon’s inheritance tax.
+The decedent, Stanley S. Adams, died on June 3, 1972. Betty L. Adams, his wife, is the duly qualified and appointed personal representative of his estate. Mr. Adams was the founder, president and general manager of Electrical Construction Company. Sometime prior to Mr. Adams’ death, the company’s stock was purchased by Northwest Marine Iron Works. At the time of his death, Mr. Adams was an employee of Electrical Construction Company, then a subsidiary of Northwest Marine Iron Works.
+After Stanley Adams’ deathj his widow began receiving monthly payments from Northwest Marine Iron Works at the same rate as her husband’s salary, totaling $21,483. The payments were made in the form of a salary with normal payroll deductions. Mrs. Adams paid income taxes on the moneys she received. However, Mrs. Adams never performed any services for Northwest Marine Iron Works nor acted as an employee for it in any manner which would entitle her to payment. Most importantly, she stated that she knew of no contractual agreement between herself, her husband, or Northwest Marine Iron Works which would entitle her to receive these moneys.
+The Department of Revenue contends that the amortized sum of $21,248 is taxable in the decedent’s estate because the moneys were received under a salary-continuation program of Northwest. The court need not consider what effect proof of this fact would have, since there was a failure of proof on this issue. Mr. Ray E. Magines, an auditor for the Department of Revenue, was called as a witness to document the existence of a salary-continuation program, whereby Northwest regularly paid moneys to widows of employees upon their deaths. However, his offered testimony was properly objected to as hearsay and could not be considered by the court.
+The Department of Revenue argued that the testimony should be admitted since the auditor was testifying as an expert. Although Mr. Magines may be an expert in any number of areas, he cannot testify as to what Northwest officials may have told him, for the purpose of proving the facts, if any, asserted by persons not subject to cross-examination. The existence of a salary-continuation program is not a fact requiring expert testimony to establish. This is not an area where “* * * a man of ordinary intelligence and experience is incapable of drawing correct conclusions from the facts in evidence without the assistance of some one who has special skill or knowledge on the subject, * * *." Fisher v. O. S. L. etc. Ry. Co., 22 Or 533, 538, 30 P 425, 427 (1892). The existence of such a contractual relationship is a question of fact which courts are regularly called upon to make without the aid of experts. But Mr. Magines was unable to testify on this point from personal knowledge.
+Oregon’s inheritance tax only applies to property which “passes or vests” by reason of the death of the decedent. ORS 118.010(1). The mere facts that the decedent died and thereafter his widow received property are not determinative. The receipt of the property must be by reason of the death, and not by reason of the independent acts of some third party under no contractual duty, such as Northwest Marine Iron Works.
+In Est. of Seitz v. Dept. of Rev., 6 OTR 241 (1975), this court noted that the legislature intended to tax only the following properties:
+“* * * [P]roperty found in the decedent’s estate at his death in which he retained at least some incident of ownership, property passing from his estate in contemplation of death, or property passing to a person who was a third-party beneficiary to a contract entered into by the decedent. * * *”
+It is evident that the Department of Revenue was attempting to show that Mrs. Adams was a third-party beneficiary to a contractual relationship between Mr. Adams and Northwest Marine Iron Works which existed because of the company’s alleged policy of making salary-continuation payments to widows. However, the defendant presented no evidence on this point and Mrs. Adams’ testimony that there was no contractual relationship meets the plaintiff’s burden of proof.
+The court can give no weight to the fact that Northwest Marine Iron Works paid the moneys in the form of a salary and that Mrs. Adams paid income taxes thereon. Although, in the state of the record, the court cannot make factual determinations binding on Northwest, a reasonable person could deduce that the payments to Mrs. Adams in the form of a salary could be a result of an attempt to disguise the payments as a deductible business expense rather than as a nondeductible gift. It is equally possible to conclude that the payment of income and withholding taxes on the moneys received by Mrs. Adams was the result of understandable ignorance as to the intricacies of tax law, rather than any conscious determination on the donee’s part that it was not a gift. Defendant, a state agency with great powers of discovery available to it, made no real effort to unravel this mystery.
+Defendant’s Amended Order No. IH 74-12, dated February 4, 1975, is found void and held for naught and defendant’s Notice of Determination and Assessment of Inheritance Tax No. 194546 shall he withdrawn. The Department of Revenue is hereby required to make a redetermination of the tax overpaid, and return such sum to the plaintiff.
+Plaintiff is entitled to her statutory costs and attorney fees in the sum of $500.

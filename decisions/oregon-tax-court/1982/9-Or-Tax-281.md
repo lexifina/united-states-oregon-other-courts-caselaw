@@ -1,0 +1,34 @@
+---
+court: "Oregon Tax Court"
+docket: "TC 1795"
+decided: "1982-12-03"
+citations: ["9 Or. Tax 281"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TUALATIN RURAL FIRE PROTECTION DISTRICT et al, v. STATE by and through its agency PORTLAND METROPOLITAN AREA LOCAL GOVERNMENT BOUNDARY COMMISSION"]
+source_url: "https://static.case.law/or-tax/9/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1764640
+cites_cases: ["101 S Ct 572", "204 Or 478", "281 Or 137", "287 Or 93", "289 Or 157", "449 US 1013", "55 Or 359", "566 P2d 1314", "66 L Ed2d 472"]
+---
+
+# Tualatin Rural Fire Protection District v. State
+
+## Majority (CARLISLE B. ROBERTS, Judge.)
+
+CARLISLE B. ROBERTS, Judge.
+The plaintiffs and the defendants filed cross motions for summary judgment, respecting the application and constitutionality of Or Laws 1981, ch 265, § 8(4) and (5), codified at ORS 199.457(4) and (5). The plaintiffs allege that these statutory provisions, authorizing assessments against districts, counties and cities, are violative of art I, § 32, of the Oregon Constitution. Plaintiffs contend that said “assessments” are, in fact, taxes imposed to cover the general operating expenses of the boundary commission and that these taxes are unconstitutional because they are not borne uniformly by the citizens within the boundary commission’s jurisdiction.
+The defendants contend that ORS 199.457 does not violate the Oregon Constitution and that the plaintiffs lack standing to bring this action because “no legally recognized interests” of the plaintiffs have been violated.
+The parties have stipulated to all material facts in this case; only questions of law remain.
+The concept of “standing” has been interpreted broadly to favor accessibility to the judicial forum. City of Homer v. State, Dept. of Nat. Resources, 566 P2d 1314, 1318 (Alaska 1977). Whether a party has standing to obtain judicial resolution of a controversy depends upon whether the party has a sufficient personal stake in the outcome of the controversy. Budget Rent-A-Car v. Multnomah Co., 287 Or 93, 597 P2d 1232 (1979).
+Plaintiff Tualatin Rural Fire Protection District (hereafter “Tualatin”) was established as a “district” pursuant to ORS chapter 478. ORS 297.405(5) includes “district” in the definition of a municipal corporation. The Oregon Supreme Court found that two municipal corporations, the cities of La Grande and Astoria, had standing to bring suits for declaratory judgments on constitutionality against state agencies in La Grande/Astoria v. PERB, 281 Or 137, 576 P2d 1204 (1978), the court concluding that a sufficiently adverse interest exists between the plaintiff cities and state agencies. This court finds that a sufficiently adverse interest exists in the instant case to give plaintiff Tualatin standing to proceed.
+Revenue-raising measures may encompass fees, assessments or taxes. The purpose for which each is imposed determines the category. Terry v. City of Portland et al, 204 Or 478, 269 P2d 544 (1955). If the amount raised is roughly equivalent only to the cost of statutory regulation, the charge is a license fee and not a tax. If its primary purpose is to raise revenue, it is a tax. Abraham v. City of Roseburg, 55 Or 359, 105 P 401 (1910); Terry v. City of Portland et al, supra.
+ORS 199.457(4) and (5) authorize charges by a state-created boundary commission against certain political subdivisions (including “districts”) to raise money to carry out the functions of the boundary commission, not for regulation of the units assessed. Such charges fall in the category of taxes. Whether plaintiff Chamberlain’s personal stake in the outcome of this controversy gives him a sufficiently adverse interest to have “standing” in this proceeding is questionable. He pays no taxes to the Boundary Commission. As stated in the Budget Rent-A-Car decision (supra,at 95):
+“A plaintiff suing under ORS chapter 28 [Declaratory Judgments] must show that he is a person ‘whose rights, status or other legal relations are affected by’ the challenged instrument * * *. Under that chapter, * * * plaintiff must show some injury or other impact on a legally recognized interest beyond an abstract interest in the correct application or the validity of a law. * * *”
+However, Mr. Chamberlain is not an essential plaintiff.
+Having determined that ORS 199.457(4) and (5) authorize the boundary commission to impose taxes, the statute is subject to the Or Const, art I, § 32, which mandates that “* * * all taxation shall be uniform on the same class of subjects within the territorial limits of the authority levying the tax.”
+ORS 199.457(4) allows the boundary commission to tax cities and counties and outlines the formula determining the amount. Assessments of taxes against cities and counties are made on the basis of population and may not exceed 10 cents per capita per year. ORS 199.457(5) states that assessments against the subject district and similar districts shall be made on the basis of assessed valuation and “* * * shall not exceed .00159 dollars per thousand dollars of assessed valuation per year * * Thus, ORS 199.457 provides for uniform assessment among all cities and all counties and among all districts within the jurisdiction of the boundary commission and therefore does not violate art I, § 32, of the Oregon Constitution with respect to the requirement of uniformity.
+Plaintiff Chamberlain alleges that he pays taxes to five public bodies. He recognized that the legislature enacted ORS 199.457 in order to provide needed funds for the boundary commission but the plaintiff alleges that the legislature was not aware of the possibility of “overlaying” of taxes as in his case. The plaintiff contends that such overlaying results in nonuniform application of taxes and therefore is unconstitutional.
+Plaintiff Chamberlain resides in one city and several districts and is assessed in each of these units of government. However, each governmental unit is assessed uniformly by the boundary commission. The plaintiff made no allegations that he was not uniformly taxed in comparison with any other taxpayer residing in the “tax zone.”
+The Oregon Constitution, art I, § 32, requires that once the legislature selects a class of subjects to be taxed it must uniformly tax all of the objects of the same class within the territorial limits of the taxing authority’s power. Jarvill v. City of Eugene, 289 Or 157, 180, 613 P2d 1 (1980), cert denied 449 US 1013, 101 S Ct 572, 66 L Ed2d 472 (1980). The boundary commission has followed this mandate of uniformity with respect to the various units within its jurisdiction. Therefore, ORS 199.457(4) and (5) is found to be constitutional and the defendants’ motion for summary judgment is hereby granted, pursuant to ORCP 47 (adopted by the Oregon Tax Court).

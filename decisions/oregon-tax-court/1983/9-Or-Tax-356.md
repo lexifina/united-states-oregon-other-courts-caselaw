@@ -1,0 +1,54 @@
+---
+court: "Oregon Tax Court"
+docket: "TC 1894"
+decided: "1983-10-28"
+citations: ["9 Or. Tax 356"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KENT et al v. DEPARTMENT OF REVENUE"]
+source_url: "https://static.case.law/or-tax/9/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1764618
+cites_cases: ["278 Or 723", "36 Or App 397", "395 US 337", "397 US 254"]
+---
+
+# Kent v. Department of Revenue
+
+## Majority (SAMUEL B. STEWART, Judge.)
+
+SAMUEL B. STEWART, Judge.
+Plaintiffs filed a Form 40 for calendar year 1980. Attached thereto was Form W-2 for 1980 indicating state income tax in the amount of $1,574.90 had been withheld by plaintiff David L. Kent’s employer. On August 24, 1981, defendant issued a check to plaintiffs in the amount of $87, advising:
+“We’ve changed the amount of your Oregon income tax refund. We’ve explained below the reason for the change and the figures we used.
+£<* * * * *
+“Read the enclosed card for an explanation of your appeal rights.”
+Subsequently plaintiffs filed with defendants, in accordance with ORS 305.275, an appeal for redetermination of their request for refund, alleging that defendant’s “recomputation of taxpayer’s tax liability and seizure of taxpayer’s refund without issuing a * * * Notice of Proposed Adjustment to Refund Claim violates taxpayers’ rights under ORS 305.265, ORS 305.270 and the 14th Amendment to the U.S. Constitution.”
+Defendant, by Opinion and Order No. I 82-145, denied plaintiffs’ appeal. Plaintiffs filed a complaint in this court and thereafter filed a Motion for Summary Judgment.
+The basic question is whether the defendant, when it recomputes a taxpayer’s liability, is required to give notice to taxpayer and give an opportunity to the taxpayer to protest the recomputation prior to reducing the taxpayer’s claim for refund?
+Defendant argues that prior notice and hearing is not required, although subsequent notice and hearing after reducing taxpayer’s claim for refund is required.
+ORS chapter 305 deals in part with tax administration generally by the Department of Revenue. ORS 305.265 provides in part that:
+“(2) * * * after a * * * return is filed, the department shall * * * audit it, * * *. If the department discovers from an * * * audit of a * * * return * * * that a deficiency exists, it shall compute the tax and give notice to the person filing the return of the deficiency and of the department’s intention to assess the deficiency, plus interest and any appropriate penalty. * * *
+% jfc ijc *
+“(5) Within 30 days from the date of mailing of notice of deficiency, the person given notice shall pay the deficiency with interest * * * and any penalty proposed. Or within that time * * * advise the department in writing of objections to the deficiency, and may request a conference * * *.
+“(6) * * * After the conference, the conference officer shall send to the person, * * * the determination of the issues, and the department shall assess any deficiency in the manner set forth in subsection (7) [i.e., send the person a notice of assessment] * *
+If the defendant were proceeding under ORS 305.265(2), (5) and (6), clearly notice and opportunity to be heard is required prior to defendant assessing a deficiency if, but only if, the taxpayer objected and requested a conference. Would failure to give notice and an opportunity to be heard nevertheless be excused if it did no harm? Under a predecessor statute, i.e., ORS 314.405, the department made an assessment before according the taxpayer involved the requested opportunity to confer. The defendant argued that it granted taxpayer a post-assessment conference which served the intent and purpose of the statute. This court agreed with the department stating the question to be whether the statutory directive was mandatory or directory. The Supreme Court reversed, stating:
+“[Procedures designed to protect individuals dealing with an agency more likely are meant to be ‘mandatory’ than provisions, equally obligatory, that are designed to assure legally and fiscally correct public administration in general, * * *.
+* * * *
+«* * * right to a preassessment conference in ORS 314.405(2) was doubtless enacted as a significant procedural protection for taxpayers. * * *” Anaconda Company v. Dept. of Rev., 278 Or 723, 565 P2d 1084 (1977).
+ORS 305.265 is not applicable here because no deficiency existed. What is involved is a refund situation. ORS 305.270 provides that:
+“(2) * * * if the original * * * return * * * claims an amount to be refunded, any amount properly refundable shall be refunded as provided in ORS * * * 314.415 [income taxation generally and statutory refund provisions not applicable here, i.e., inheritance, gift and timber taxes] * *
+ORS 314.415(l)(a) provides that:
+“If the amount of the tax found due on the return as originally filed and as computed by the taxpayer or corrected by the department is less than the amount theretofore paid, the excess shall be refunded by the department with interest
+* * * 99
+Thus, neither ORS 305.270(2) or 314.415(1)(a) provides for issuing a notice of proposed adjustment and tendering the taxpayer an opportunity to be heard prior to defendant’s reducing taxpayer’s claim for refund. ORS 305.270(3) does, however, so provide:
+“Upon receipt of a * * * return claiming a refund, the department shall either refund the amount requested or send to the claimant a notice of any proposed adjustment to the refund claim, stating the basis upon which the adjustment is made. The claimant may, within 30 days of receipt of such notice, request a conference * * *. After the conference, the conference officer shall send to the claimant, * * * a determination of the matter, and include therewith payment of any amount found to be refundable, * *
+Under the rationale of Anaconda Company, supra, clearly ORS 305.270(3) is mandatory. Thus, ORS 305.270(3) and 305.265 both require prior notice. ORS 305.270(2) and (3) have not been the subject of an Oregon administrative rule promulgated by defendant to clarify the inconsistency between (2) and (3). Notwithstanding that ORS 305.270(2) and ORS 314.415(1)(a) do not require notice and an opportunity to be heard prior to a reduction of taxpayer’s claim for refund, does the Fourteenth Amendment of the U.S. Constitution require prior notice?
+In Sniadach v. Family Finance Corp., 395 US 337, 89 S Ct 1820, 23 L Ed2d 349 (1969), involving a summary state prejudgment garnishment procedure whereby, without notice and a prior hearing, a person’s wages were frozen, the court held such procedure violated procedural due process where (1) no situation requiring special protection to a state or creditor interest was presented by the facts and (2) the statute involved was not narrowly drawn to meet any such unusual conditions.
+In this instance there is no situation requiring special protection to the state. The state has the money and no excessive or unnecessary burden will be placed on the state by requiring that it give notice and hold a hearing on a proposed adjustment prior to, rather than after, the adjustment. Accordingly, the statutes were not narrowly drawn to provide special protection to the state.
+In Goldberg v. Kelly, 397 US 254, 90 S Ct 1011, 25 L Ed2d 287 (1970), involving a state welfare recipient whose payments were terminated without an evidentiary hearing prior to termination, due process was held to have been denied to the recipient because the interest of the recipient in having his payments continued outweighed the interest of the state in conserving fiscal and administrative resources. While the interest of the taxpayers here are not as dramatic as those of the welfare recipient in Goldberg, supra, i.e., “that termination of aid pending resolution of a controversy over eligibility may deprive an eligible recipient of the very means by which to live while he waits,” nevertheless their interest is not outweighed by the state’s interest as pointed out in the discussion of Sniadach, supra. Both Sniadach and Goldberg were cited in Brown v. Lobdell, 36 Or App 397, 585 P2d 4 (1978), which involved the SOIL procedure whereby various state agencies submit a list of debtors to the defendant which matches those names to its list of taxpayers entitled to personal income tax refunds, diverts part or all of the tax refund to various state agencies, notifies the debtor-taypayer that his refund has been diverted to another state agency, and advises that he may request a review of the setoff within 30 days. Plaintiffs in that case contended that defendant denied them procedural due process by diverting their refunds without first providing an opportunity for an evidentiary hearing. Insofar as there were amounts of setoff, plaintiffs had already had an opportunity to challenge the validity or amount of their debts to the creditor state agencies. The court held that that opportunity distinguished this case from Goldberg, supra, and Sniadach, supra, and, accordingly, satisfied due process requirements. Insofar as what procedures are constitutionally required before defendant could set off plaintiffs tax refunds against liquidated debts whose underlying validity was no longer subject to challenge, the court held that it was sufficient if defendant informed the taxpayer that his tax refund was being applied to a debt which the notice identified and that he could submit any objections in writing to defendant or to the creditor agencies.
+There is a critical difference between Brown, supra, and this case, however. In Brown, the amount of the setoff had been determined by an order following a hearing or by expiration of the time to request a hearing. Here, the amount of adjustment to the refund was determined by administrative fiat, i.e., defendant announced that:
+“We’ve changed the amount of your Oregon income tax refund. * * *
+******
+“Read the enclosed card for an explanation of your appeal rights.”
+Plaintiffs were entitled to notice that defendant “proposed” to adjust their refund claim and to a hearing on the validity of such proposed adjustments prior to making the adjustments. Defendant’s failure to do so denied plaintiffs’ procedural due process. It follows that the post-notice procedures contained in ORS 305.270(2) and ORS 314.415(l)(a) cannot continue to be utilized by defendant. Defendant must utilize in the future the prior-notice procedure in ORS 305.270(3).
+Now, therefore, IT IS HEREBY ORDERED that (1) plaintiffs’ Motion for Summary Judgment is granted; (2) defendant’s Opinion and Order No. 182-145, dated September 7, 1982, insofar as finding that plaintiffs constitutional rights were not violated, is reversed; and (3) the matter of the adjustment of plaintiffs’ 1980 refund claim is remanded, defendant to proceed in accordance with ORS 205.270(3).

@@ -1,0 +1,30 @@
+---
+court: "Oregon Tax Court"
+decided: "1963-09-17"
+citations: ["1 Or. Tax 424"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MILLER’S MOBILE MANOR v. STATE TAX COMMISSION"]
+source_url: "https://static.case.law/or-tax/1/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1753323
+---
+
+# Miller's Mobile Manor v. State Tax Commission
+
+## Majority (Peter M. Gttnnar, Judge.)
+
+Peter M. Gttnnar, Judge.
+This cause comes before the court upon the defendant’s demurrer to the plaintiff’s complaint on the grounds that the complaint does not allege facts constituting a cause of suit and also that the suit has not been commenced within the time limited by statute.
+Briefly, the facts, as alleged in the complaint, are:
+The plaintiff, an Oregon corporation, owns certain real property in Multnomah County upon which it had installed certain improvements for the accommodation of trailer houses. These properties were duly assessed and the tax paid for the years from 1959-60 through 1962-63. In February, 1960, the plaintiff began the construction of additional units. On April 25, 1962, the Assessor and Sheriff of Multnomah County, acting under the omitted property section, ORS 311.205 to 311.220, retroactively reassessed the fair market value of the plaintiff’s land and improvements for the tax year 1961-62 and, levied an additional tax upon the plaintiff in the sum of $1,572.26 for that tax year.
+On May 21, 1962, the plaintiff filed a petition for the correction of the omitted property assessment with the Multnomah County Board of Equalization. On August 13,1962, the board of equalization denied plaintiff’s petition on the ground that it had no jurisdiction to correct an omitted property assessment.
+Next comes the crucial allegation of the complaint in the following language:
+“That plaintiff in compliance with statute appealed the matter of the reassessment of the additional tax for the year 1961-1962 to the State Tax Commission and that on May 20, 1963 the State Tax Commission denied plaintiff’s petition for review, a copy of which petition and the State Tax Commission’s opinion and order is [sic] attached hereto
+By the express language of this paragraph the petition for review filed with the commission is attached as a part of the complaint. This petition discloses that it was filed with the commission on or after September 10, 1962. The statute permitting appeals from omitted property assessments, ORS 311.210(2), provides for appeals directly to the State Tax Commission within 30 days after the sheriff or assessor takes the action required to make the assessment and provides no appeal to the county board of equalization. Since the complaint alleges that the assessment was made on April 25,1962, a petition filed on or after September 10, 1962, is not timely filed.
+That the plaintiff appealed to the board of equalization is immaterial. Under the statute the board had no jurisdiction. The appeal to the board waived no rights of appeal to the commission, but neither did it extend nor postpone the time within which the appeal to the commission had to be taken. The petition before the commission in this case was not timely filed, without reference to the prior nugatory appeal to the board, and this defect is fatal. Because this defect goes to the time within which the plaintiff filed its petition before the commission, and not to the time within which it filed its complaint in this court, it cannot be reached by demurring on the grounds of the statute of limitations. Such demurrer would only reach an untimely filing of a complaint in this court.
+However, this defect can be reached by demurring upon the ground that the complaint does not state facts sufficient to constitute a cause of suit. The order from which the taxpayer seeks relief dismissed his appeal to the commission for failure to file within the statutory time. Under ORS 306.545, as amended by the Oregon Tax Court Act (Oregon Laws 1961, ch 533), this court has jurisdiction to hear appeals from all orders of the State Tax Commission affecting a property taxpayer, whereas under the prior procedure the taxpayer’s remedy under these circumstances was by mandamus in the circuit court to require the commission to consider the case on the merits.
+Though the statutory proceeding presently supersedes mandamus, the issue presented to the court is the same — whether the commission should be required to do its alleged duty by deciding the case on the merits. By analogy, the complant in this proceeding must meet the same test as a writ of mandamus and must allege facts which clearly establish the plaintiff’s right to have the commission perform its duty. The fact that the complaint in this case seeks a determination of the value of the subject property does not alter the status of these proceedings. The commission’s dismissal of the case on procedural grounds, if it were erroneous, which it is not, would not destroy the commission’s right and duty to hear the appeal on its merits before any proceeding on the merits is brought in this court. The only issue that can be presented to this court on the state of the record at this time is the same one that previously would have been raised by the mandamus proceeding — whether the commission is under a duty to hear the case on the merits.
+To support its appeal at this point, then, the plaintiff must allege in its complaint facts which would justify this court in remanding this case to the commission with the direction to hear the case on its merits, i.e., a timely filing of its petition with the commission. ORS 311.210(2). Yet on the face of the pleadings it appears that the plaintiff did not file its petition with the commission within the statutory time. Therefore, the complaint does not state facts sufficient to warrant the relief which properly lies at this point in the proceedings and the general demurrer on that ground is well taken.
+An order sustaining the demurrer shall be prepared and presented in accordance with the rules.

@@ -1,0 +1,29 @@
+---
+court: "Oregon Tax Court"
+docket: "TC 2221"
+decided: "1985-07-23"
+citations: ["10 Or. Tax 89"]
+reporter: "or-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SOUTHERN OREGON HISTORICAL SOCIETY, INC. v. DEPARTMENT OF REVENUE"]
+source_url: "https://static.case.law/or-tax/10/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1766030
+---
+
+# Southern Oregon Historical Society, Inc. v. Department of Revenue
+
+## Majority (CARL N. BYERS, Judge.)
+
+CARL N. BYERS, Judge.
+Plaintiff applied for property tax exemption under ORS 307.130 for the subject property as of January 1, 1983. The assessor and then defendant denied the exemption and plaintiff appeals.
+Plaintiff is an Oregon nonprofit corporation formed to preserve and encourage the study of the history of Southern Oregon. Organized June 10, 1949, plaintiff operates some 15 historical sites or properties owned by Jackson County. Plaintiff receives property tax funds under a historical levy provided by ORS chapter 358, as well as donations.
+The subject property is commonly known as the Hanley farm and was founded as such in 1857. Only 38 acres of the original 640 acres are remaining. Of the 38 acres, 17 acres are in pasture, 18 acres are in tillable soil and three acres are devoted to the homestead. The homestead has a number of buildings on it, three of which are over 100 years old. The farm has been registered with the National Register of Historic Places. In addition to the improvements on the property, there are certain species of plantings, such as the California Valley Oak, planted in 1860, which constitute an important part of the history of the property. Finally, more recently noted are some archeological findings of “prehistoric” significance pertaining to the Tecalma Indians, a tribe which apparently became extinct.
+In November 1982, Mary L. Hanley, now 97 years old and the sole surviving member of the Hanley family, donated the property to plaintiff subject to the reservation of a life estate in the house, garage, tenant house, chicken house, greenhouse and granary. Because of the reservation of a life estate for the use of Mrs. Hanley for the remainder of her life, plaintiff does not seek exemption for that portion of the property used by Mrs. Hanley. The exemption sought here is only upon the property, primarily the farmland, pasture and barns, which is not subject to the life estate.
+Defendant contends that the property does not qualify for exemption because it is not used “exclusively” for the charitable purposes specified by ORS 307.130. The parties have stipulated that plaintiff is “a literary, benevolent, charitable and scientific” institution within the meaning of ORS 307.130. This stipulation is based upon the purposes of plaintiff as set forth in Article II of its articles of incorporation (Exhibit 1) which provides in part:
+“The object of this corporation and the pursuits in which it proposes to engage shall be the collection, preservation, exhibition and publication of material and real property of a historical character, especially that relating to the history of Southern Oregon and of Oregon; in general to encourage and develop the study of such history solely and in affiliation and cooperation with state and local historical societies and associations.”
+As of the assessment date in question the evidence showed that the subject property was in the process of being prepared for exhibition to the public. Plaintiffs plans are to create a “living museum” which would typify a working farm of the 1916 era. In 1983, plaintiff had a sharecropping arrangement with Steve Clark, a farmer, who tilled the 18 acres. However, plaintiff received no income from such activities. Since 1983, plaintiff has orally leased the land to farmers; not with intent to make a profit but to keep the grass down and preserve the land as farmland. Plaintiff does not yet advertise the farm as open to the public. Plaintiff will conduct tours of the farm for members of the public if they call and make a reservation with plaintiff. Defendant contends that the property does not yet qualify for exemption because it is still in the preparation stage and is not truly available to the public. Apparently, in defendant’s view, the public must have access to the property in order to qualify under ORS 307.130.
+The court does not agree.
+One of the expressed purposes of the plaintiff is the “preservation” of real property of a historical character. If plaintiff qualifies as an institution under ORS 307.130, which defendant concedes it does, then the mere preservation of the property would qualify it for exemption. Museums and organizations of a historical nature must have the ability to preserve and retain property without exhibiting it to the public or involving the public in its ownership or use. Such item or property may await in a blanket of dust for many years before appropriate time or circumstances call for it to be exhibited to the public.
+The fact that the subject property is to be a “living museum” in the form of a working farm raises some questions about the income to be derived therefrom. Based on the evidence submitted by the plaintiff, it appears plaintiffs intent in the near future is to operate the farm as in days of old with horse and plow. Undoubtedly the expenses will exceed the income. In the meantime, the preponderance of the evidence established that the land is not being farmed for a profit but for the primary purpose of preserving the land and its appearance. Accordingly, the court finds that the subject property, exclusive of the portions subject to the life estate of Mary Hanley, qualifies for exemption under ORS 307.130. The Opinion and Order No. VL 84-2437 of the defendant is hereby set aside, and held for naught. Costs to neither party.
